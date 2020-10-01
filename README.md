@@ -16,6 +16,7 @@
 
 Change into the repos root folder then run: 
  `make board_defconfig `
+ 
 Replace `board_defconfig` with the defconfig of your Board.
   
 If you want to make changes run: 
